@@ -8,7 +8,7 @@
 
 ## instalasi
 
-donlot dan install rust
+donlot dan install rust.
 
 ## compile
 
